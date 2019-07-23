@@ -1,0 +1,13 @@
+﻿.red
+{
+    background-color:Red;
+    color: White;
+    border-style:solid;
+    border-color:Black;
+}
+.green
+{
+    background-color:Green;
+    color:Black;
+    border-style:solid;
+}
